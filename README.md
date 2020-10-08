@@ -1,1 +1,1 @@
-# MinhaLojaDeGames
+# MinhaLojaGames
